@@ -1,30 +1,46 @@
-# 👋 Salut, je suis Kali
+<h1 align="center">👋 Salut, je suis Adama Samassi</h1>
+<h3 align="center">Développeur Full Stack & Architecte Cloud Serverless 🇨🇮</h3>
 
-🌱 Je suis développeur passionné par **Laravel**, **NestJS**, **AWS** et **Cloud Computing**.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adamasamassi&label=Vues du profil&color=blueviolet&style=flat" alt="profile views"/>
+</p>
 
-🔭 Actuellement je travaille sur :
-- 🧑‍💻 Une plateforme sécurisée de gestion de médias
-- ☁️ Un projet de backup intelligent avec S3 et Backblaze
+---
 
-📫 Contacte-moi :
-- 📧 kali.dev@example.com
-- 🌐 [Mon Portfolio](https://mon-site.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/kali-dev)
+🚀 **Je travaille actuellement avec :**
 
-## 🚀 Compétences principales
+- 🔧 **Back-end** : Laravel • NestJS • Node.js (Express)
+- 🌐 **Front-end** : React • HTML/CSS • Bootstrap
+- ☁️ **Cloud** : AWS (Lambda, API Gateway, Cognito, RDS, S3, CloudWatch)
+- 💾 **Bases de données** : MySQL • PostgreSQL • MongoDB • DynamoDB
+- 🔐 **Sécurité** : Auth JWT • Cognito • OAuth2
+- 🔁 **CI/CD** : GitHub Actions • GitLab CI 
+- 🧱 **Architecture** : Serverless • Clean Architecture • RESTful APIs
 
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+---
 
-## 📊 GitHub Stats
+🛠️ **Technologies & outils :**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kali-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kali-dev&layout=compact&theme=radical)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nestjs,react,nodejs,express,mysql,postgres,mongodb,docker,aws,git,github,vscode" />
+</p>
 
-## 🧠 En ce moment j'apprends :
+---
 
-- 🔐 Sécurité API avec JWT & OAuth
-- 🚀 DevOps avec GitHub Actions & CI/CD
+📊 **Statistiques GitHub :**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adamasamassi&show_icons=true&theme=gruvbox&count_private=true" alt="stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamasamassi&layout=compact&theme=gruvbox" alt="langs" />
+</p>
+
+---
+
+📫 **Me contacter :**
+- 📩 Email : asamassiadama@gmail.com
+- 📱 WhatsApp : +225 
+
+---
+
+⚡ Fun fact : Je suis développeur le jour, Otaku la nuit 🌙🍥
