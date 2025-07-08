@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Full Stack & Architecte Cloud Serverless 🇨🇮</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=adamasamassi&label=Vues du profil&color=blueviolet&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Pomcy225&label=Vues du profil&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -30,9 +30,9 @@
 📊 **Statistiques GitHub :**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adamasamassi&show_icons=true&theme=gruvbox&count_private=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pomcy225&show_icons=true&theme=gruvbox&count_private=true" alt="stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamasamassi&layout=compact&theme=gruvbox" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pomcy225&layout=compact&theme=gruvbox" alt="langs" />
 </p>
 
 ---
