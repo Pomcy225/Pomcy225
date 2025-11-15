@@ -21,7 +21,7 @@
 🛠️ **Technologies & outils :**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nestjs,react,nodejs,express,mysql,postgres,mongodb,docker,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nestjs,react,nodejs,express,mysql,postgres,mongodb,docker,aws,git,github,vscode,java,spring boot" />
 </p>
 
 ---
