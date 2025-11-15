@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut, je suis Adama Samassi</h1>
-<h3 align="center">Développeur Full Stack & Architecte Cloud Serverless 🇨🇮</h3>
+<h3 align="center">Développeur Full Stack & Architecte Cloud Serverless </h3>
 
 
 
@@ -21,7 +21,7 @@
 🛠️ **Technologies & outils :**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nestjs,react,nodejs,express,mysql,postgres,mongodb,docker,aws,git,github,vscode,java,spring boot" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nestjs,react,nodejs,express,mysql,postgres,mongodb,docker,aws,git,github,vscode,java,springboot" />
 </p>
 
 ---
