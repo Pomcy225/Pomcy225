@@ -11,9 +11,10 @@
 - 🌐 **Front-end** : React • HTML/CSS • Bootstrap
 - ☁️ **Cloud** : AWS (Lambda, API Gateway, Cognito, RDS, S3, CloudWatch)
 - 💾 **Bases de données** : MySQL • PostgreSQL • MongoDB • DynamoDB
-- 🔐 **Sécurité** : Auth JWT • Cognito • OAuth2
+- 🔐 **Sécurité** : Auth JWT • Cognito • OAuth2,keycloak
 - 🔁 **CI/CD** : GitHub Actions • GitLab CI 
 - 🧱 **Architecture** : Serverless • Clean Architecture • RESTful APIs
+-  **Infrastructure as Code (IaC)** : CDK(aws) • Terraform 
 
 ---
 
@@ -37,7 +38,7 @@
 
 📫 **Me contacter :**
 - 📩 Email : asamassiadama@gmail.com
-- 📱 WhatsApp : +225 
+  
 
 ---
 
